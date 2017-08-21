@@ -192,7 +192,7 @@ Raw
       "clientMessageId": "clientMessageId"
     }
   ],
-  "scheduledTime": 119
+  "scheduledTime": 70
 }
 ``` 
 
@@ -216,9 +216,9 @@ Body ([Sms Outgoing Send response](#sms_outgoing_send_response))
       "mobileNumber": "mobileNumber",
       "accepted": false,
       "acceptError": "acceptError",
-      "serverMessageId": 119,
-      "scheduledTime": 119,
-      "creditCost": 119.602792260518
+      "serverMessageId": 70,
+      "scheduledTime": 70,
+      "creditCost": 70.8469561631079
     }
   ]
 }
@@ -486,7 +486,7 @@ Body ([ResponseError2_Error](#response_error2_error))
 {
   "timeStamp": "timeStamp",
   "version": "version",
-  "statusCode": 119,
+  "statusCode": 70,
   "errorMessage": "errorMessage"
 }
 ```
@@ -499,7 +499,7 @@ Body ([ResponseError3_Error](#response_error3_error))
 {
   "timeStamp": "timeStamp",
   "version": "version",
-  "statusCode": 77,
+  "statusCode": 70,
   "authResult": false,
   "authError": "authError"
 }
